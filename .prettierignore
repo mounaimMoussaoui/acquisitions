@@ -1,0 +1,12 @@
+node_modules/
+
+Logs/
+
+*.log
+
+coverage/
+
+drizzle/
+
+package-lock.json
+
